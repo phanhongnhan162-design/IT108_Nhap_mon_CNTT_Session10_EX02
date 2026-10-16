@@ -1,0 +1,14 @@
+﻿Bài 2 : Chuẩn hóa tài liệu cài đặt hệ thống 
+
+
+Input (Văn bản thô):
+
+* Thông tin tài liệu kỹ thuật hướng dẫn cài đặt và thiết lập cảm biến độ ẩm DHT22 cho trang trại hoa Lan.
+* Các câu lệnh thực thi dòng lệnh trên Terminal (cập nhật hệ thống, cài đặt thư viện, raspi-config, crontab...).
+* Dữ liệu sơ đồ kết nối chân cảm biến và lưu ý vị trí lắp đặt thực tế.
+Output (Giao diện render chuyên nghiệp):
+
+* Phân cấp tiêu đề : Sử dụng Heading theo Markdown (#, ##, ###) để phân chia từ chuẩn bị đến triển khai.
+* Sử dụng bảng Markdown (Table) để so sánh (DHT11 cũ vs DHT22 mới).
+* Danh sách công việc (Task List): check list ( -[ ] ) để chuẩn bị thiết bị kiểm tra.
+* Xử lý bẫy ký tự (Escape): Sử dụng ký tự thoát \ trước các ký tự đặc biệt như \*, \# khi hiển thị dạng text thuần để tránh lỗi định dạng ngoài ý muốn.
